@@ -1,6 +1,6 @@
 # README Generator
   
-  [![MIT license](https://img.shields.io/github/license/nrmoser50/README-Generator)]
+  ![MIT license](https://img.shields.io/github/license/nrmoser50/README-Generator)
 
   ## Table of Contents
   * [Description](#description)
@@ -12,20 +12,20 @@
   * [Questions](#questions)
   * [Credits](#credits)
   ## Description
-  This is an application that generates a README file using the command line via node.js.
+  This is a simple application that is used to create a README file using the command line via node.js.
   ## Installation
-  Users may clone the repository and this project requires the node module: inquirer.
+  Programs used include: VS Code, node.js, and the node module: inquirer.
   ## Usage
-  This project is useful for creating files to display data based on the information given.
+  This project is useful for creating files to display data based on the information provided by the user.
   ## Licenses 
-    This project is covered under the [MIT](https://choosealicense.com/mit/}) license.
+    This project is covered under the MIT license.
   ## Contributing
-  This is a solo project.
+  N/A
   ## Tests
   NPM testing preferred.
   ## Questions
   Have questions about this project? 
-  GitHub:(https://github.com/nrmoser50)  
+  GitHub: https://github.com/nrmoser50  
   Email: nicholas.r.moser@gmail.com
   ## Credits
   Nick Moser
