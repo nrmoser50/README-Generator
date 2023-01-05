@@ -1,7 +1,7 @@
 // Packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs'); 
-const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // Array of questions for user input
 const questions = [
@@ -22,7 +22,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Usage',
+        name: 'usage',
         message: 'What will this project be used for?',
     },
     {
