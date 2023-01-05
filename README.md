@@ -17,6 +17,12 @@
   Programs used include: VS Code, node.js, and the node module: inquirer.
   ## Usage
   This project is useful for creating files to display data based on the information provided by the user.
+  
+
+  https://user-images.githubusercontent.com/115385996/210707415-91d459ba-c51c-43ff-806e-dfea35994b56.mp4
+
+
+  
   ## Licenses 
     This project is covered under the MIT license.
   ## Contributing
