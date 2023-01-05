@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
   if(!license) {
     return "";
   } else {
-    return `[![${license} license](https://img.shields.io/github/license/nrmoser50/README-Generator)]`
+    return `![${license} license](https://img.shields.io/github/license/nrmoser50/README-Generator)`
   }
 }
 
@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'MIT') {
-    return `[${license}](https://choosealicense.com/mit/})`
+    return `${license}`
   } else {
     return '';
   }
@@ -57,7 +57,7 @@ function generateMarkdown(data) {
   ${data.tests}
   ## Questions
   Have questions about this project? 
-  GitHub:(https://github.com/${data.github})  
+  GitHub: https://github.com/${data.github}  
   Email: ${data.email}
   ## Credits
   ${data.name}
